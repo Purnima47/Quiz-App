@@ -1,0 +1,184 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correct": "Paris",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correct": "Mars",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "correct": "Pacific",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which color is a primary color?",
+    "options": ["Green", "Purple", "Blue", "Orange"],
+    "correct": "Blue",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "correct": "7",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 + 7?",
+    "options": ["10", "11", "12", "13"],
+    "correct": "12",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": ["Tiger", "Lion", "Elephant", "Leopard"],
+    "correct": "Lion",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which language is primarily spoken in Spain?",
+    "options": ["French", "Spanish", "English", "German"],
+    "correct": "Spanish",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which fruit is yellow and curved?",
+    "options": ["Apple", "Banana", "Mango", "Pineapple"],
+    "correct": "Banana",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What do bees produce?",
+    "options": ["Milk", "Honey", "Wax", "Silk"],
+    "correct": "Honey",
+    "difficulty": "easy"
+  },
+
+  {
+    "question": "What is the derivative of sin(x)?",
+    "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+    "correct": "cos(x)",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correct": "Nitrogen",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "correct": "12",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Thailand", "India"],
+    "correct": "Japan",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which element has the chemical symbol 'Fe'?",
+    "options": ["Fluorine", "Iron", "Fermium", "Francium"],
+    "correct": "Iron",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+    "correct": "Jupiter",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which instrument measures atmospheric pressure?",
+    "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+    "correct": "Barometer",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the formula for water?",
+    "options": ["H2O", "CO2", "O2", "H2SO4"],
+    "correct": "H2O",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which organ purifies blood in the human body?",
+    "options": ["Liver", "Kidney", "Heart", "Lungs"],
+    "correct": "Kidney",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": ["Yen", "Won", "Dollar", "Rupee"],
+    "correct": "Yen",
+    "difficulty": "medium"
+  },
+
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "options": ["1987", "1989", "1991", "1993"],
+    "correct": "1989",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the value of Planck's constant?",
+    "options": ["6.626×10^-34 Js", "3×10^8 m/s", "9.8 m/s²", "1.602×10^-19 C"],
+    "correct": "6.626×10^-34 Js",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["Isaac Newton", "Galileo", "Albert Einstein", "Nikola Tesla"],
+    "correct": "Albert Einstein",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which element has atomic number 79?",
+    "options": ["Gold", "Silver", "Platinum", "Copper"],
+    "correct": "Gold",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "options": ["Reykjavik", "Oslo", "Helsinki", "Copenhagen"],
+    "correct": "Reykjavik",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which mathematician is known for his Last Theorem?",
+    "options": ["Fermat", "Euler", "Gauss", "Riemann"],
+    "correct": "Fermat",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi body"],
+    "correct": "Mitochondria",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the chemical symbol for potassium?",
+    "options": ["K", "P", "Pt", "Po"],
+    "correct": "K",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+    "correct": "Michelangelo",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which is the deepest ocean trench in the world?",
+    "options": ["Puerto Rico Trench", "Mariana Trench", "Tonga Trench", "Java Trench"],
+    "correct": "Mariana Trench",
+    "difficulty": "hard"
+  }
+]
